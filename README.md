@@ -2,6 +2,6 @@
  
  # This is a site made by DesignCourse in HTML and CSS crash course.
  
- 
-![pcSite](https://user-images.githubusercontent.com/93403510/172061602-35a8c518-8eef-4cf3-8c93-ecf745064b93.jpg)
-![androidSite](https://user-images.githubusercontent.com/93403510/172061605-3541e2a9-f576-4633-82a0-7e1a359be679.jpg)
+ ![screencapture-127-0-0-1-5501-index-html-2022-06-20-22_47_59](https://user-images.githubusercontent.com/93403510/174670262-e476ae77-5f8d-45a1-b0c4-4fe69abe1bef.png)
+
+
